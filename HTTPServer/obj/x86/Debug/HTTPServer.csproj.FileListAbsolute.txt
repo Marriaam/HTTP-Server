@@ -1,0 +1,77 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe.config
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\Microsoft.Extensions.Primitives.dll
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\System.Buffers.dll
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\System.Memory.dll
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\System.Numerics.Vectors.dll
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\System.Text.Encodings.Web.dll
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\Microsoft.Extensions.Primitives.xml
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\System.Buffers.xml
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\System.Memory.xml
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\System.Numerics.Vectors.xml
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\downloads\Template[2021-2022]\HTTPServer\bin\Debug\System.Text.Encodings.Web.xml
+I:\downloads\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+I:\downloads\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+I:\downloads\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CopyComplete
+I:\downloads\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+I:\downloads\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Project\Network project\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Project\Network project\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Project\Network project\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Project\Network project\HTTPServer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Project\Network project\HTTPServer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Project\Network project\HTTPServer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Project\Network project\HTTPServer\bin\Debug\System.Buffers.dll
+C:\Project\Network project\HTTPServer\bin\Debug\System.Memory.dll
+C:\Project\Network project\HTTPServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Project\Network project\HTTPServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project\Network project\HTTPServer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Project\Network project\HTTPServer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Project\Network project\HTTPServer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Project\Network project\HTTPServer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Project\Network project\HTTPServer\bin\Debug\System.Buffers.xml
+C:\Project\Network project\HTTPServer\bin\Debug\System.Memory.xml
+C:\Project\Network project\HTTPServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Project\Network project\HTTPServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Project\Network project\HTTPServer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Project\Network project\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Project\Network project\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Project\Network project\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CopyComplete
+C:\Project\Network project\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Project\Network project\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Project\Network project\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\Project\Network project\HTTPServer\bin\Debug\HTTPServer.exe
+D:\Project\Network project\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\Project\Network project\HTTPServer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Project\Network project\HTTPServer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Project\Network project\HTTPServer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Project\Network project\HTTPServer\bin\Debug\System.Buffers.dll
+D:\Project\Network project\HTTPServer\bin\Debug\System.Memory.dll
+D:\Project\Network project\HTTPServer\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\Network project\HTTPServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\Network project\HTTPServer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Project\Network project\HTTPServer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Project\Network project\HTTPServer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Project\Network project\HTTPServer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Project\Network project\HTTPServer\bin\Debug\System.Buffers.xml
+D:\Project\Network project\HTTPServer\bin\Debug\System.Memory.xml
+D:\Project\Network project\HTTPServer\bin\Debug\System.Numerics.Vectors.xml
+D:\Project\Network project\HTTPServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\Network project\HTTPServer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Project\Network project\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+D:\Project\Network project\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+D:\Project\Network project\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\Project\Network project\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CopyComplete
+D:\Project\Network project\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\Project\Network project\HTTPServer\obj\x86\Debug\HTTPServer.pdb
